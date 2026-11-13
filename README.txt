@@ -23,6 +23,10 @@ W -> Avanzar
 S -> Retroceder
 A -> Desplazarse a la izquierda
 D -> Desplazarse a la derecha
+Movimiento del mouse -> Orientar Cámara
+Clic Izquierdo -> Disparar
+Tecla 1 -> Seleccionar arma 1 (Shotgun)
+Tecla 2 -> Seleccionar arma 2 (Rifle)
 
 4. Fuentes Externas:
 "Zombie" (https://skfb.ly/oOAyo) by Jungle Jim is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
